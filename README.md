@@ -18,7 +18,7 @@ To run these projects, you will need Python installed on your system. Additional
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/dedwards2022/sturdy-robot/tree/main)https://github.com/dedwards2022/sturdy-robot/tree/main
+   git clone https://github.com/dedwards2022/sturdy-robot/tree/main
    ```
 2. Navigate to the project directory:
    ```bash
