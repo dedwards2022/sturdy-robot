@@ -7,7 +7,8 @@ This repository contains a collection of projects and assignments completed as p
 ## Projects
 
 ### Project 1: CSC-500 
-##### Branch: csc_500_critical_thinking_week_1
+##### Branch: csc_500_critical_thinking_week_1 (Part 1)
+##### Branch: csc_500_critical_thinking_week_1 (Part 2)
 - **Description**: Learning Python
 - **Technologies Used**: Python
 - **Key Concepts**: Python Basics
