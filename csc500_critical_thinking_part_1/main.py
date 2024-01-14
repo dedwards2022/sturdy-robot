@@ -1,4 +1,4 @@
-print("Addition & Subtraction\n\n") # Title of program
+print("Addition & Subtraction\n") # Title of program
 
 # User inputs first number
 num1 = int(input("Input first number: "))
